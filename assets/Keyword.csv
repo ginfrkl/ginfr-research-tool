@@ -1,0 +1,57 @@
+Cat_code,Category,Event,Keyword,Common Type
+0,Mandatory,Initiative Type,Belt Road,
+0,Mandatory,Project Type/Concession,build own operate/ BOO/transfer/PPP/public private partnership / Concession / design build / developer,
+0,Mandatory,"Key Capacity, Sector, Output",capacity/output,
+0,Mandatory,Project Value,cost / value / dollar/ million / billion,
+0,Mandatory,Equity: Sponsor,sponsor/owner/own/share/invest,
+0,Mandatory,Debt: Grant,grant ,
+0,Mandatory,Financial & Legal Advisor ,Financial Advisor/Legal Advisor ,
+1,Early Stage,Rumored,,
+1,Early Stage,Announced,announce / plan / launch / promote / to build / to construct / to develop / seek / consider ,
+1,Early Stage,Request for Proposal (RFP),issued RFP / Request for Proposal,
+1,Early Stage,Agreement Signed,reached / struck / signed / entered into / partnered,agreement / joint development / JDA / JVA / joint venture agreement / HOA / Heads of Agreement / MoU / Memorandum of Understanding / loan agreement / PDA / partnership
+1,Early Stage,Letter of Intent Signed,signed / entered,LOI / Letter of Intent
+1,Early Stage,Negotiations,,
+1,Early Stage,Feasibility Study,start / completed,Feasibility Study / Pre-Feasibility Study
+1,Early Stage,Study & Design,study / design / start / completed / assay,FEED / Front End Engineering Design / conceptual design/ investigation / geological study / preliminary engineering design / scoping Study / environment study/Environmental Impact Assessment/EIA
+1,Early Stage,Awaiting Government Approval,submitted proposal / permit ,development approval / development consent / permit / exploration permit / environmental permit
+1,Early Stage,Government Approved,approve / granted / received / give green light / gets nod / seek approval,development approval / development consent / permit / exploration permit / environmental permit
+1,Early Stage,Government Rejected,rejected / declined / refused,development approval / development consent / permit / exploration permit / environmental permit
+1,Early Stage,Public Inquiry,consultation / comment / inquiry,public / residents 
+2,Tender Bid,In Tender,open tender / auction / issue tender / launch tender, tender / bidding/ auction
+2,Tender Bid,Re-Tender,re-open / re-issue ,tender / bidding/ auction
+2,Tender Bid,Bids Submitted,submitted proposal/ bid submit / invite bidders / open bids / auction / receive bid,
+2,Tender Bid,Pre-Qualification Bids,evaluation / reviewed / assesment / shortlist / qualified / pre-qualified / received / selected bidder / preffered bidders / Expression of Interest (EOI) / notification from Interested parties,
+2,Tender Bid,Preferred Bidder Stage (PBS),preffered / shortlisted / nominate / rank,bidders / companies
+2,Tender Bid,Planning Permission Applied,planning applied/ propose/ sent for approval/ submitted,plan / planning permission / proposal / application
+2,Tender Bid,Planning Permission Granted,planning approved/ received approval/ green light/ go signal from approving entity,plan / planning permission / proposal / application
+2,Tender Bid,Planning Permission Refused,rejected / declined / refused,plan / planning permission / proposal / application
+3,Contract Awarded,Contract Signed (Concession),signed / awarded / selected,Construction / EPC / Engineering Procurement DB / Design / Operation / Maintainance / Supply / Turnkey / contract cost
+3,Contract Awarded,Contract Signed (Off-take),awarded / selected / signed,power purchase agreement / PPA / offtake / energy sale / Tolling / take or pay
+3,Contract Awarded,Contract Signed (Construction & Supply),awarded / selected,Construction / EPC / Engineering Procurement DB / Design / Operation / Maintainance / Supply / Turnkey / contract cost
+3,Contract Awarded,Contract Signed (Other General contract),signed ,other contracts with no available drop down selection in DB
+3,Contract Awarded,Contract Awarded (Construction & Supply),awarded / selected,Construction / EPC / Engineering Procurement DB / Design / Operation / Maintainance / Supply / Turnkey / contract cost
+3,Contract Awarded,Contract Signed (Operation & Maintenance),awarded / selected / signed,Maintenance / Operations / Power Management / O&M / Facilities Management / Transportation Agreement
+3,Contract Awarded,Contract Awarded (Other General contract),awarded / selected,other contracts with no available drop down selection in DB
+4,Construct Milestone,Under Construction,construction start / construction began / groundbreaking / broke ground / shovel in the ground / topping off /  Construction Commence / Launch / kick off / under construction  / beginning of construction,
+4,Construct Milestone,Estimated Completion,Expected to complete / expected commissioning / full production / in operation commissioning ,
+4,Construct Milestone,Completed,completed / completed construction / commenced operations / flipped the switch / completed development,
+4,Construct Milestone,Construction Halted,on hold / paused / delayed / halted,
+4,Construct Milestone,Inactive,,
+4,Construct Milestone,Commissioning,entered commissioning,
+4,Construct Milestone,Operational,operational / put in use / commenced operations / up and running / commercial operation,
+4,Construct Milestone,Re-launched/Renewed,"restart, resumed,re-opened",
+4,Construct Milestone,Delayed,delay / setback / holdup / postponed ,construction / development 
+4,Construct Milestone,Cancelled,cancelled / terminate / call off,construction / development 
+5,Finance Related,Financed,financial closed / finance / provide funding / signed loan agreement,PF / project finance / non-recourse / loan / bond / bank / debt
+5,Finance Related,Refinanced,refi / refinance ,fund existing debt / previous debt
+5,Finance Related,Partially Financed (In Finance),financial closed / financed / provide funding / signed loan agreement,PF / project finance / non-recourse / loan / bond / bank / debt
+5,Finance Related,Conventionally Financed,sponsor / invest / finance / provide funding / signed loan agreement,equity / debt / ownership / grant / loan / bond / bank
+5,Finance Related,Project Finance Cancelled,PF cancelled / cancelled,PF / project finance / non-recourse / loan / bond / bank / debt
+6,Acquisition/Privitization,Rumored,,
+6,Acquisition/Privitization,Announced,announce / plan / launch / promote / to build / to construct / to develop / seek / consider ,
+6,Acquisition/Privitization,Cancelled,cancelled / terminate / call off,construction / development 
+6,Acquisition/Privitization,Letter of Intent Signed,signed / entered,LOI / Letter of Intent
+6,Acquisition/Privitization,Negotiations,,
+6,Acquisition/Privitization,Sale Agreement Signed,sale agreement signed / acquired / stake change / purchase / acquisition / privatisation / Sales and Purchase Agreement / SPA,
+6,Acquisition/Privitization,Sale Completed,acquired / completed / financed / closed / acquisition / privatisation ,
